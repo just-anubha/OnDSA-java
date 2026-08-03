@@ -6,7 +6,7 @@ public class pallindrome{
         String s=sc.nextLine();
         
         String s1=rev(s);
-
+        
         if(s1.equalsIgnoreCase(s)){
             System.out.println("It is a pallindrome");
         }
@@ -22,3 +22,4 @@ public class pallindrome{
     return rev(s.substring(1)) + s.charAt(0);
 }
 }
+

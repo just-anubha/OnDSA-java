@@ -4,17 +4,16 @@ public class PrintNto1{
         Scanner sc=new Scanner(System.in);
             System.out.println("Enter n: ");
             int N=sc.nextInt();
-            PrintRev(N);
+            PrintRev(N,N);
         
     }
 
-    static void PrintRev(int N){
+    static void PrintRev(int i,int N){
 
-        if(N==0){
+        if(i<1){
             return;
         }
-        System.out.println(N);
-        N--;
-        PrintRev(N);
+        System.out.println(i);
+        PrintRev(i-1,N);
     }
 }

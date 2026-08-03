@@ -5,15 +5,15 @@ public class Print1toN{
         Scanner sc=new Scanner(System.in);
         System.out.println("Enter n:");
         int N=sc.nextInt();
-        PrintNumber( N);
+        PrintNumber( 1,N);
     }
 
-   static void PrintNumber(int N){
-       if(N==0){
+   static void PrintNumber(int i,int N){
+       if(i>N){
         return;
        }
-       PrintNumber(N-1);
-       System.out.println(N);
+       System.out.println(i);
+       PrintNumber(i+1,N);
  
    }
 }
