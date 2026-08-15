@@ -27,7 +27,6 @@ public class longestsum_subarray1{
 
             }
         }
-    
         System.out.println("the longest subarray is: " +len);
     }
 }
