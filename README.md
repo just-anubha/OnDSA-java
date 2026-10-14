@@ -4,26 +4,7 @@ A-Z DSA in Java • Striver's sheet • consistency over speed 💻
 
 ## 🎯 DSA Sprint: October 15–22, 2026
 
-- **Goal:** 105+ new problems
-- **Daily target:** 14 questions
-- **Language:** Java
-- **Difficulty:** Easy + Medium
-- **Study time:** 4–7 AM & 3–5 PM
-
 ## 📊 Progress Tracker
-
-- [ ] October 15 — 14 questions
-- [ ] October 16 — 14 questions
-- [ ] October 17 — 14 questions
-- [ ] October 18 — 14 questions
-- [ ] October 19 — 14 questions
-- [ ] October 20 — 14 questions
-- [ ] October 21 — 14 questions
-- [ ] October 22 — 14 questions
-
-**Target: 112 questions in 8 days**
-
----
 
 ## 📅 Day 1 — October 15
 ### Greedy + Sliding Window
