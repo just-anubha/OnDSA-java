@@ -60,9 +60,15 @@
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/just-anubha/OnDSA-java/tree/master/0055-jump-game) |
 | [0860-lemonade-change](https://github.com/just-anubha/OnDSA-java/tree/master/0860-lemonade-change) |
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/just-anubha/OnDSA-java/tree/master/0055-jump-game) |
 | [0860-lemonade-change](https://github.com/just-anubha/OnDSA-java/tree/master/0860-lemonade-change) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/just-anubha/OnDSA-java/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
