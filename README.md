@@ -54,3 +54,15 @@
 - No required study targets. Enjoy your break!
 
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0860-lemonade-change](https://github.com/just-anubha/OnDSA-java/tree/master/0860-lemonade-change) |
+## Greedy
+|  |
+| ------- |
+| [0860-lemonade-change](https://github.com/just-anubha/OnDSA-java/tree/master/0860-lemonade-change) |
+<!---LeetCode Topics End-->
