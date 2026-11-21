@@ -99,3 +99,15 @@ Each problem is a single `.java` file named after the problem (class name must m
 | Day | Date | Solved | Notes |
 |---|---|---|---|
 | 1 | 21 Nov | | |
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/just-anubha/OnDSA-java/tree/master/0704-binary-search) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/just-anubha/OnDSA-java/tree/master/0704-binary-search) |
+<!---LeetCode Topics End-->
