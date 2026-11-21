@@ -1,74 +1,101 @@
-## October 16 — Greedy Basics + Heap Warm-up
-- [ ] Assign Cookies
-- [ ] Lemonade Change
-- [ ] Fractional Knapsack
-- [ ] Jump Game I
-- [ ] Heapify Algorithm
+# OnDSA-java
 
-## October 17 — Greedy Scheduling + Intervals
-- [ ] Shortest Job First
-- [ ] Job Sequencing Problem
-- [ ] N Meetings in One Room
-- [ ] Non-overlapping Intervals
-- [ ] Insert Interval
-- [ ] Merge Intervals
-- [ ] Minimum Number of Platforms Required for a Railway
+Striver's A2Z DSA Sheet, solved in Java. Public daily log of my progress.
 
-## October 18 — Graph Traversals + Heap Applications
-- [ ] Number of Provinces
-- [ ] Number of Islands
-- [ ] Flood Fill Algorithm
-- [ ] Detect a Cycle in an Undirected Graph
-- [ ] Build Heap from a Given Array
-- [ ] Implement Min Heap
+**Goal:** finish the whole sheet by **31 Dec 2026** (buffer till 7 Jan 2027).
+**Platform for contests:** Codeforces (weekly, Div 3/4 or Educational).
 
-## October 19 — Graph BFS/DFS Applications
-- [ ] Number of Enclaves
-- [ ] Rotten Oranges
-- [ ] Distance of Nearest Cell Having One
-- [ ] Surrounded Regions
-- [ ] Number of Distinct Islands
-- [ ] Bipartite Graph
-- [ ] Topological Sort / Kahn's Algorithm
-- [ ] Detect a Cycle in a Directed Graph
+## Progress
 
-## October 20 — Shortest Paths + Heap Applications
-- [ ] Dijkstra's Algorithm
-- [ ] Print Shortest Path
-- [ ] Shortest Distance in a Binary Maze
-- [ ] Network Delay Time
-- [ ] Implement Max Heap
-- [ ] Check if an Array Represents a Min Heap
-- [ ] Top K Frequent Elements
+| Date | Solved on sheet | Remaining |
+|---|---|---|
+| 21 Nov 2026 (start) | 130 / 495 | 365 |
 
-## October 21 — DP Basics + Knapsack Start
-- [ ] Climbing Stairs
-- [ ] Frog Jump
-- [ ] Frog Jump with K Distances
-- [ ] Maximum Sum of Non-Adjacent Elements
-- [ ] House Robber
-- [ ] Convert Min Heap to Max Heap
-- [ ] Minimum Cost to Connect Sticks
+Target pace: ~10 problems/day.
 
-## October 22–25 — Holiday
-- No required study targets. Enjoy your break!
+## Today: Sat, 21 Nov 2026 (Binary Search)
 
+- [ ] Binary Search (classic)
+- [ ] Lower Bound
+- [ ] Upper Bound
+- [ ] Search Insert Position
+- [ ] Floor and Ceil in a sorted array
+- [ ] First and last occurrence
+- [ ] Count occurrences
+- [ ] Search in Rotated Sorted Array I
 
+## Week 1 plan (21 to 27 Nov)
 
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0055-jump-game](https://github.com/just-anubha/OnDSA-java/tree/master/0055-jump-game) |
-| [0860-lemonade-change](https://github.com/just-anubha/OnDSA-java/tree/master/0860-lemonade-change) |
-## Greedy
-|  |
-| ------- |
-| [0055-jump-game](https://github.com/just-anubha/OnDSA-java/tree/master/0055-jump-game) |
-| [0860-lemonade-change](https://github.com/just-anubha/OnDSA-java/tree/master/0860-lemonade-change) |
-## Dynamic Programming
-|  |
-| ------- |
-| [0055-jump-game](https://github.com/just-anubha/OnDSA-java/tree/master/0055-jump-game) |
-<!---LeetCode Topics End-->
+**Sun 22 Nov: Codeforces contest + 4 problems**
+- [ ] Search in Rotated Sorted Array II
+- [ ] Minimum in Rotated Sorted Array
+- [ ] Number of times the array is rotated
+- [ ] Single element in a sorted array
+- [ ] Contest + upsolve 1 problem
+
+**Mon 23 Nov: Binary Search**
+- [ ] Peak element
+- [ ] Square root
+- [ ] Nth root
+- [ ] Koko eating bananas
+- [ ] Minimum days to make M bouquets
+- [ ] Smallest divisor given a threshold
+- [ ] Capacity to ship packages
+- [ ] Kth missing positive number
+- [ ] Aggressive cows
+- [ ] Book allocation
+- [ ] Split array largest sum
+- [ ] Painter's partition
+
+**Tue 24 Nov: Binary Search (answers and 2D) + Strings**
+- [ ] Minimize max distance to gas station
+- [ ] Median of two sorted arrays
+- [ ] Kth element of two sorted arrays
+- [ ] Row with max 1s
+- [ ] Search in 2D matrix I
+- [ ] Search in 2D matrix II
+- [ ] Peak element II
+- [ ] Median of a row-wise sorted matrix
+- [ ] 4 Strings problems
+
+**Wed 25 Nov: Strings + Recursion**
+- [ ] Last 3 Strings problems
+- [ ] First 9 Recursion problems
+
+**Thu 26 Nov: Recursion + Linked List**
+- [ ] Remaining 11 Recursion problems
+- [ ] First Linked List problem
+
+**Fri 27 Nov: Linked List**
+- [ ] Next 12 Linked List problems
+
+## Roadmap (sheet order)
+
+Binary Search > Strings > Recursion > Linked List > Bit Manipulation > Greedy > Sliding Window / 2 Pointer > Stack / Queues > Binary Trees + BST > Heaps > Graphs > Dynamic Programming > Tries > Advanced Strings > Maths
+
+## Daily rules
+
+1. Attempt each problem for 25 to 30 minutes on my own.
+2. Then take a hint, then watch the video.
+3. Write the solution in my own words, no copy-paste.
+4. Push to this repo every night.
+5. Revisit the hardest problem of the day for 5 minutes before sleeping.
+
+## Repo structure
+
+```
+OnDSA-java/
+  BinarySearch/
+  Strings/
+  Recursion/
+  LinkedList/
+  ...
+```
+
+Each problem is a single `.java` file named after the problem (class name must match the file name).
+
+## Daily log
+
+| Day | Date | Solved | Notes |
+|---|---|---|---|
+| 1 | 21 Nov | | |
