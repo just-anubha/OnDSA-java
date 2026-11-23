@@ -119,9 +119,18 @@ Each problem is a single `.java` file named after the problem (class name must m
 | [0033-search-in-rotated-sorted-array](https://github.com/just-anubha/OnDSA-java/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/just-anubha/OnDSA-java/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/just-anubha/OnDSA-java/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/just-anubha/OnDSA-java/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/just-anubha/OnDSA-java/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/just-anubha/OnDSA-java/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/just-anubha/OnDSA-java/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/just-anubha/OnDSA-java/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/just-anubha/OnDSA-java/tree/master/0704-binary-search) |
+## Math
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/just-anubha/OnDSA-java/tree/master/0069-sqrtx) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/just-anubha/OnDSA-java/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
