@@ -117,6 +117,7 @@ Each problem is a single `.java` file named after the problem (class name must m
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/just-anubha/OnDSA-java/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/just-anubha/OnDSA-java/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/just-anubha/OnDSA-java/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [2643-row-with-maximum-ones](https://github.com/just-anubha/OnDSA-java/tree/master/2643-row-with-maximum-ones) |
 ## Binary Search
 |  |
 | ------- |
@@ -141,4 +142,8 @@ Each problem is a single `.java` file named after the problem (class name must m
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/just-anubha/OnDSA-java/tree/master/0069-sqrtx) |
+## Matrix
+|  |
+| ------- |
+| [2643-row-with-maximum-ones](https://github.com/just-anubha/OnDSA-java/tree/master/2643-row-with-maximum-ones) |
 <!---LeetCode Topics End-->
